@@ -1,0 +1,14 @@
+C:\Users\gobm\source\repos\BairesDevCodingTest\BairesDevCodingTest\BairesDevCodingTest.ApplicationService\bin\Debug\netcoreapp3.1\BairesDevCodingTest.ApplicationService.deps.json
+C:\Users\gobm\source\repos\BairesDevCodingTest\BairesDevCodingTest\BairesDevCodingTest.ApplicationService\bin\Debug\netcoreapp3.1\BairesDevCodingTest.ApplicationService.dll
+C:\Users\gobm\source\repos\BairesDevCodingTest\BairesDevCodingTest\BairesDevCodingTest.ApplicationService\bin\Debug\netcoreapp3.1\BairesDevCodingTest.ApplicationService.pdb
+C:\Users\gobm\source\repos\BairesDevCodingTest\BairesDevCodingTest\BairesDevCodingTest.ApplicationService\bin\Debug\netcoreapp3.1\BairesDevCodingTest.Contracts.dll
+C:\Users\gobm\source\repos\BairesDevCodingTest\BairesDevCodingTest\BairesDevCodingTest.ApplicationService\bin\Debug\netcoreapp3.1\BairesDevCodingTest.Domain.dll
+C:\Users\gobm\source\repos\BairesDevCodingTest\BairesDevCodingTest\BairesDevCodingTest.ApplicationService\bin\Debug\netcoreapp3.1\BairesDevCodingTest.Contracts.pdb
+C:\Users\gobm\source\repos\BairesDevCodingTest\BairesDevCodingTest\BairesDevCodingTest.ApplicationService\bin\Debug\netcoreapp3.1\BairesDevCodingTest.Domain.pdb
+C:\Users\gobm\source\repos\BairesDevCodingTest\BairesDevCodingTest\BairesDevCodingTest.ApplicationService\obj\Debug\netcoreapp3.1\BairesDevCodingTest.ApplicationService.csprojAssemblyReference.cache
+C:\Users\gobm\source\repos\BairesDevCodingTest\BairesDevCodingTest\BairesDevCodingTest.ApplicationService\obj\Debug\netcoreapp3.1\BairesDevCodingTest.ApplicationService.AssemblyInfoInputs.cache
+C:\Users\gobm\source\repos\BairesDevCodingTest\BairesDevCodingTest\BairesDevCodingTest.ApplicationService\obj\Debug\netcoreapp3.1\BairesDevCodingTest.ApplicationService.AssemblyInfo.cs
+C:\Users\gobm\source\repos\BairesDevCodingTest\BairesDevCodingTest\BairesDevCodingTest.ApplicationService\obj\Debug\netcoreapp3.1\BairesDevCodingTest.ApplicationService.csproj.CopyComplete
+C:\Users\gobm\source\repos\BairesDevCodingTest\BairesDevCodingTest\BairesDevCodingTest.ApplicationService\obj\Debug\netcoreapp3.1\BairesDevCodingTest.ApplicationService.dll
+C:\Users\gobm\source\repos\BairesDevCodingTest\BairesDevCodingTest\BairesDevCodingTest.ApplicationService\obj\Debug\netcoreapp3.1\BairesDevCodingTest.ApplicationService.pdb
+C:\Users\gobm\source\repos\BairesDevCodingTest\BairesDevCodingTest\BairesDevCodingTest.ApplicationService\obj\Debug\netcoreapp3.1\BairesDevCodingTest.ApplicationService.csproj.CoreCompileInputs.cache

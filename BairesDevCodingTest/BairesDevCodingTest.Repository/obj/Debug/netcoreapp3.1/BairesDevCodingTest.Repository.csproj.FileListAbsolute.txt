@@ -1,0 +1,12 @@
+C:\Users\gobm\source\repos\BairesDevCodingTest\BairesDevCodingTest\BairesDevCodingTest.Repository\bin\Debug\netcoreapp3.1\BairesDevCodingTest.Repository.deps.json
+C:\Users\gobm\source\repos\BairesDevCodingTest\BairesDevCodingTest\BairesDevCodingTest.Repository\bin\Debug\netcoreapp3.1\BairesDevCodingTest.Repository.dll
+C:\Users\gobm\source\repos\BairesDevCodingTest\BairesDevCodingTest\BairesDevCodingTest.Repository\bin\Debug\netcoreapp3.1\BairesDevCodingTest.Repository.pdb
+C:\Users\gobm\source\repos\BairesDevCodingTest\BairesDevCodingTest\BairesDevCodingTest.Repository\bin\Debug\netcoreapp3.1\BairesDevCodingTest.Contracts.dll
+C:\Users\gobm\source\repos\BairesDevCodingTest\BairesDevCodingTest\BairesDevCodingTest.Repository\bin\Debug\netcoreapp3.1\BairesDevCodingTest.Contracts.pdb
+C:\Users\gobm\source\repos\BairesDevCodingTest\BairesDevCodingTest\BairesDevCodingTest.Repository\obj\Debug\netcoreapp3.1\BairesDevCodingTest.Repository.csprojAssemblyReference.cache
+C:\Users\gobm\source\repos\BairesDevCodingTest\BairesDevCodingTest\BairesDevCodingTest.Repository\obj\Debug\netcoreapp3.1\BairesDevCodingTest.Repository.AssemblyInfoInputs.cache
+C:\Users\gobm\source\repos\BairesDevCodingTest\BairesDevCodingTest\BairesDevCodingTest.Repository\obj\Debug\netcoreapp3.1\BairesDevCodingTest.Repository.AssemblyInfo.cs
+C:\Users\gobm\source\repos\BairesDevCodingTest\BairesDevCodingTest\BairesDevCodingTest.Repository\obj\Debug\netcoreapp3.1\BairesDevCodingTest.Repository.csproj.CopyComplete
+C:\Users\gobm\source\repos\BairesDevCodingTest\BairesDevCodingTest\BairesDevCodingTest.Repository\obj\Debug\netcoreapp3.1\BairesDevCodingTest.Repository.dll
+C:\Users\gobm\source\repos\BairesDevCodingTest\BairesDevCodingTest\BairesDevCodingTest.Repository\obj\Debug\netcoreapp3.1\BairesDevCodingTest.Repository.pdb
+C:\Users\gobm\source\repos\BairesDevCodingTest\BairesDevCodingTest\BairesDevCodingTest.Repository\obj\Debug\netcoreapp3.1\BairesDevCodingTest.Repository.csproj.CoreCompileInputs.cache

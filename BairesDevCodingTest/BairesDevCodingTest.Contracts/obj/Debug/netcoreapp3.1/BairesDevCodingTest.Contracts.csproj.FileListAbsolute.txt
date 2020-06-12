@@ -1,0 +1,8 @@
+C:\Users\gobm\source\repos\BairesDevCodingTest\BairesDevCodingTest\BairesDevCodingTest.Contracts\bin\Debug\netcoreapp3.1\BairesDevCodingTest.Contracts.deps.json
+C:\Users\gobm\source\repos\BairesDevCodingTest\BairesDevCodingTest\BairesDevCodingTest.Contracts\bin\Debug\netcoreapp3.1\BairesDevCodingTest.Contracts.dll
+C:\Users\gobm\source\repos\BairesDevCodingTest\BairesDevCodingTest\BairesDevCodingTest.Contracts\bin\Debug\netcoreapp3.1\BairesDevCodingTest.Contracts.pdb
+C:\Users\gobm\source\repos\BairesDevCodingTest\BairesDevCodingTest\BairesDevCodingTest.Contracts\obj\Debug\netcoreapp3.1\BairesDevCodingTest.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\gobm\source\repos\BairesDevCodingTest\BairesDevCodingTest\BairesDevCodingTest.Contracts\obj\Debug\netcoreapp3.1\BairesDevCodingTest.Contracts.AssemblyInfoInputs.cache
+C:\Users\gobm\source\repos\BairesDevCodingTest\BairesDevCodingTest\BairesDevCodingTest.Contracts\obj\Debug\netcoreapp3.1\BairesDevCodingTest.Contracts.AssemblyInfo.cs
+C:\Users\gobm\source\repos\BairesDevCodingTest\BairesDevCodingTest\BairesDevCodingTest.Contracts\obj\Debug\netcoreapp3.1\BairesDevCodingTest.Contracts.dll
+C:\Users\gobm\source\repos\BairesDevCodingTest\BairesDevCodingTest\BairesDevCodingTest.Contracts\obj\Debug\netcoreapp3.1\BairesDevCodingTest.Contracts.pdb

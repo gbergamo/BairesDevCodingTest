@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "k6uKTYHkmfdNWeF4UQA1Z97gM0/22Ux9WzD23JWpWvvKH+dZNnElB38OKrHBYq9w4mj+1hd0Rv1u66+II6oizA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gobm\\source\\repos\\BairesDevCodingTest\\BairesDevCodingTest\\BairesDevCodingTest.Infrastructure\\BairesDevCodingTest.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gobm\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.5\\microsoft.extensions.dependencyinjection.abstractions.3.1.5.nupkg.sha512",
+    "C:\\Users\\gobm\\.nuget\\packages\\microsoft.extensions.options\\3.1.5\\microsoft.extensions.options.3.1.5.nupkg.sha512",
+    "C:\\Users\\gobm\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.5\\microsoft.extensions.primitives.3.1.5.nupkg.sha512",
+    "C:\\Users\\gobm\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\gobm\source\repos\BairesDevCodingTest\BairesDevCodingTest\BairesDevCodingTest.Domain\bin\Debug\netcoreapp3.1\BairesDevCodingTest.Domain.deps.json
+C:\Users\gobm\source\repos\BairesDevCodingTest\BairesDevCodingTest\BairesDevCodingTest.Domain\bin\Debug\netcoreapp3.1\BairesDevCodingTest.Domain.dll
+C:\Users\gobm\source\repos\BairesDevCodingTest\BairesDevCodingTest\BairesDevCodingTest.Domain\bin\Debug\netcoreapp3.1\BairesDevCodingTest.Domain.pdb
+C:\Users\gobm\source\repos\BairesDevCodingTest\BairesDevCodingTest\BairesDevCodingTest.Domain\bin\Debug\netcoreapp3.1\BairesDevCodingTest.Contracts.dll
+C:\Users\gobm\source\repos\BairesDevCodingTest\BairesDevCodingTest\BairesDevCodingTest.Domain\bin\Debug\netcoreapp3.1\BairesDevCodingTest.Contracts.pdb
+C:\Users\gobm\source\repos\BairesDevCodingTest\BairesDevCodingTest\BairesDevCodingTest.Domain\obj\Debug\netcoreapp3.1\BairesDevCodingTest.Domain.csprojAssemblyReference.cache
+C:\Users\gobm\source\repos\BairesDevCodingTest\BairesDevCodingTest\BairesDevCodingTest.Domain\obj\Debug\netcoreapp3.1\BairesDevCodingTest.Domain.csproj.CoreCompileInputs.cache
+C:\Users\gobm\source\repos\BairesDevCodingTest\BairesDevCodingTest\BairesDevCodingTest.Domain\obj\Debug\netcoreapp3.1\BairesDevCodingTest.Domain.AssemblyInfoInputs.cache
+C:\Users\gobm\source\repos\BairesDevCodingTest\BairesDevCodingTest\BairesDevCodingTest.Domain\obj\Debug\netcoreapp3.1\BairesDevCodingTest.Domain.AssemblyInfo.cs
+C:\Users\gobm\source\repos\BairesDevCodingTest\BairesDevCodingTest\BairesDevCodingTest.Domain\obj\Debug\netcoreapp3.1\BairesDevCodingTest.Domain.csproj.CopyComplete
+C:\Users\gobm\source\repos\BairesDevCodingTest\BairesDevCodingTest\BairesDevCodingTest.Domain\obj\Debug\netcoreapp3.1\BairesDevCodingTest.Domain.dll
+C:\Users\gobm\source\repos\BairesDevCodingTest\BairesDevCodingTest\BairesDevCodingTest.Domain\obj\Debug\netcoreapp3.1\BairesDevCodingTest.Domain.pdb

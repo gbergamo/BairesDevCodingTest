@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BairesDevCodingTest.Domain/1.0.0": {
+        "dependencies": {
+          "BairesDevCodingTest.Contracts": "1.0.0"
+        },
+        "runtime": {
+          "BairesDevCodingTest.Domain.dll": {}
+        }
+      },
+      "BairesDevCodingTest.Contracts/1.0.0": {
+        "runtime": {
+          "BairesDevCodingTest.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BairesDevCodingTest.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BairesDevCodingTest.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

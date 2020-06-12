@@ -1,0 +1,14 @@
+C:\Users\gobm\source\repos\BairesDevCodingTest\BairesDevCodingTest\BairesDevCodingTest.Infrastructure\bin\Debug\netcoreapp3.1\BairesDevCodingTest.Infrastructure.deps.json
+C:\Users\gobm\source\repos\BairesDevCodingTest\BairesDevCodingTest\BairesDevCodingTest.Infrastructure\bin\Debug\netcoreapp3.1\BairesDevCodingTest.Infrastructure.dll
+C:\Users\gobm\source\repos\BairesDevCodingTest\BairesDevCodingTest\BairesDevCodingTest.Infrastructure\obj\Debug\netcoreapp3.1\BairesDevCodingTest.Infrastructure.csprojAssemblyReference.cache
+C:\Users\gobm\source\repos\BairesDevCodingTest\BairesDevCodingTest\BairesDevCodingTest.Infrastructure\obj\Debug\netcoreapp3.1\BairesDevCodingTest.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\gobm\source\repos\BairesDevCodingTest\BairesDevCodingTest\BairesDevCodingTest.Infrastructure\obj\Debug\netcoreapp3.1\BairesDevCodingTest.Infrastructure.AssemblyInfo.cs
+C:\Users\gobm\source\repos\BairesDevCodingTest\BairesDevCodingTest\BairesDevCodingTest.Infrastructure\bin\Debug\netcoreapp3.1\BairesDevCodingTest.Infrastructure.pdb
+C:\Users\gobm\source\repos\BairesDevCodingTest\BairesDevCodingTest\BairesDevCodingTest.Infrastructure\bin\Debug\netcoreapp3.1\BairesDevCodingTest.Contracts.dll
+C:\Users\gobm\source\repos\BairesDevCodingTest\BairesDevCodingTest\BairesDevCodingTest.Infrastructure\bin\Debug\netcoreapp3.1\BairesDevCodingTest.Repository.dll
+C:\Users\gobm\source\repos\BairesDevCodingTest\BairesDevCodingTest\BairesDevCodingTest.Infrastructure\bin\Debug\netcoreapp3.1\BairesDevCodingTest.Contracts.pdb
+C:\Users\gobm\source\repos\BairesDevCodingTest\BairesDevCodingTest\BairesDevCodingTest.Infrastructure\bin\Debug\netcoreapp3.1\BairesDevCodingTest.Repository.pdb
+C:\Users\gobm\source\repos\BairesDevCodingTest\BairesDevCodingTest\BairesDevCodingTest.Infrastructure\obj\Debug\netcoreapp3.1\BairesDevCodingTest.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\gobm\source\repos\BairesDevCodingTest\BairesDevCodingTest\BairesDevCodingTest.Infrastructure\obj\Debug\netcoreapp3.1\BairesDevCodingTest.Infrastructure.csproj.CopyComplete
+C:\Users\gobm\source\repos\BairesDevCodingTest\BairesDevCodingTest\BairesDevCodingTest.Infrastructure\obj\Debug\netcoreapp3.1\BairesDevCodingTest.Infrastructure.dll
+C:\Users\gobm\source\repos\BairesDevCodingTest\BairesDevCodingTest\BairesDevCodingTest.Infrastructure\obj\Debug\netcoreapp3.1\BairesDevCodingTest.Infrastructure.pdb
